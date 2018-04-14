@@ -1,1 +1,1 @@
-# another_pantry
+GitHub Checkpoint Assignment
